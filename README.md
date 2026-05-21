@@ -1,4 +1,4 @@
-# End-to-End Yelp Review Sentiment Analysis using Python, AWS S3, and Snowflake
+# Scalable Yelp Review Data Pipeline and Sentiment Analysis using Snowflake
 
 ## Project Overview
 
