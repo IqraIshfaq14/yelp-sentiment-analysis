@@ -164,7 +164,7 @@ yelp-sentiment-analysis/
 
 
 ## Future Improvements
-```text
+
 - Build interactive dashboards using Power BI or Tableau
 - Automate data ingestion using Snowpipe
 - Deploy orchestration workflows using Apache Airflow
