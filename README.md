@@ -12,6 +12,11 @@ The project includes data ingestion, cloud storage, sentiment analysis using Pyt
 Yelp JSON Dataset → Python Processing → AWS S3 → Snowflake → Sentiment Analysis → SQL KPIs
 
 ---
+## AWS S3 Storage
+
+Uploaded Yelp JSON datasets to AWS S3 for cloud-based ingestion into Snowflake.
+
+![AWS S3 Bucket](screenshots/aws_s3_bucket.png)
 
 ## Technologies Used
 
