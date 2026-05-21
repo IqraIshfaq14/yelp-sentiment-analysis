@@ -161,3 +161,15 @@ yelp-sentiment-analysis/
 │   └── split_large_json.py
 │
 └── README.md
+
+
+## Future Improvements
+
+- Build interactive dashboards using Power BI or Tableau
+- Automate data ingestion using Snowpipe
+- Deploy orchestration workflows using Apache Airflow
+- Implement real-time analytics pipelines
+- Add automated data quality validation checks
+- Integrate streaming data ingestion
+- Optimize Snowflake warehouse performance for large-scale processing
+- Extend sentiment analysis using advanced NLP models
