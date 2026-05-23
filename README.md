@@ -143,10 +143,11 @@ KPIs include:
 yelp-sentiment-analysis/
 │
 ├── sql/
-│   ├── 01_data_loading.sql
-│   ├── 02_business_table_creation.sql
-│   ├── 03_sentiment_analysis_udf.sql
-│   └── 04_business_kpis.sql
+│   ├── Yelp Splittind Data.ipynb
+│   ├── businessKpi's.sql├
+│   ├── buniessTable.sql
+│   └── reviewTblData.sql
+│   └──semantic_analysis_function.sql
 │
 ├── screenshots/
 │   ├── aws_s3_bucket.png
